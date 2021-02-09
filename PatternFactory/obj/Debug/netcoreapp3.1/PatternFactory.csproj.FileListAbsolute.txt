@@ -1,0 +1,13 @@
+C:\Users\hossa\repos\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.exe
+C:\Users\hossa\repos\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.deps.json
+C:\Users\hossa\repos\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.runtimeconfig.json
+C:\Users\hossa\repos\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.runtimeconfig.dev.json
+C:\Users\hossa\repos\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.dll
+C:\Users\hossa\repos\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.pdb
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.csprojAssemblyReference.cache
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.AssemblyInfoInputs.cache
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.AssemblyInfo.cs
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.csproj.CoreCompileInputs.cache
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.dll
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.pdb
+C:\Users\hossa\repos\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.genruntimeconfig.cache
